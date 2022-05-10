@@ -1,8 +1,9 @@
 body {
-    background-image: url(images/Room15.png);
+    background-image:;
     min-height: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(images/Room15.png);
     background-position: center;
     background-size: cover;
     display: grid;
