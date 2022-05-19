@@ -37,7 +37,9 @@ body {
     padding: 5px;
     overflow: hidden;
     border-radius: 20px;
-    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(images/red.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(images/backroom.jpg);
+    background-position: center;
+    position: center;
 }
 .button-box{
     width: 220px;
